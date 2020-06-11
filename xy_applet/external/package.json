@@ -1,0 +1,12 @@
+{
+  "name": "external",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    
+  },
+  "files": [
+    "test.wasm"
+  ],
+  "module": "test.wasm"
+}
