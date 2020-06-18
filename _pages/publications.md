@@ -26,8 +26,8 @@ I'm interested in how topological data analysis can be applied to obtain value f
 <p>
 	One potential application of persistent homology that has not yet fully been explored is in studing phase transitions in lattice models from statistical mechanics. The idea of this project is to build up a methodology for using persistent homology with well-understood lattice models such as the XY model, with the hope that this could eventually help us towards understanding the behaviour and phase transitions of more complex models like lattice QCD.
 </p><p>
-	To get a flavour of what the persistence of the XY model tells us I wrote a small web app that can be found <a href="{{ site.baseurl }}/xy-model/">here</a>.
-	<img src="{{ site.baseurl }}/files/images/xy_applet.png" style="width: 20%;"/>
+	To get a flavour of what the persistence of the XY model tells us, I wrote a small web app that can be found <a href="{{ site.baseurl }}/xy-model/">here</a>.
+	<a href="{{ site.baseurl }}/xy-model/"><img src="{{ site.baseurl }}/files/images/xy_applet.png" style="width: 60%; padding-left: auto; padding-right: auto;"/></a>
 </p>
 
 <h3>Other projects</h3>
@@ -42,7 +42,7 @@ In other projects I am looking at:
 <div class="vallenato">
 <h2 style="text-align: center;">Dissertation</h2>
 <div class="vallenato-header">
-Masters Dissertation: Synthetic Homotopy Theory and Classifying Principal Bundles in Homotopy Type Theory
+Masters: Synthetic Homotopy Theory and Classifying Principal Bundles in Homotopy Type Theory
 </div><!--/.vallenato-header-->
 
 <div class="vallenato-content">
