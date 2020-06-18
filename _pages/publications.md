@@ -22,9 +22,15 @@ author_profile: true
 
 I'm interested in how topological data analysis can be applied to obtain value from data by considering its shape. On the one hand, this consists of identifying new domains where TDA can improve data analysis, especially when it solves problems that other data analysis techniques can not. On the other hand, this involves investigating where tools like persistent homology and (ball) mapper fit into the data scientist's toolbox, especially alongside the wide variety of manifold learning techniques out there.
 
-<h4>Persistent homology to study phase transitions</h4>
-One potential application of persistent homology that has not yet fully been explored is in studing phase transitions in lattice models from statistical mechanics. The idea of this project is to build up a methodology for using persistent homology with well-understood lattice models such as the XY model, with the hope that this could eventually help us towards understanding the behaviour and phase transitions of more complex models like lattice QCD.
+<h3>Persistent homology to study phase transitions</h3>
+<p>
+	One potential application of persistent homology that has not yet fully been explored is in studing phase transitions in lattice models from statistical mechanics. The idea of this project is to build up a methodology for using persistent homology with well-understood lattice models such as the XY model, with the hope that this could eventually help us towards understanding the behaviour and phase transitions of more complex models like lattice QCD.
+</p><p>
+	To get a flavour of what the persistence of the XY model tells us I wrote a small web app that can be found <a href="{{ site.baseurl }}/xy-model/">here</a>.
+	<img src="{{ site.baseurl }}/assets/images/xy_applet.png" />
+</p>
 
+<h3>Other Projects</h3>
 <p>
 In other projects I am looking at:
 <ul>
@@ -36,7 +42,7 @@ In other projects I am looking at:
 <div class="vallenato">
 <h2 style="text-align: center;">Dissertation</h2>
 <div class="vallenato-header">
-Synthetic Homotopy Theory and Classifying Principal Bundles in Homotopy Type Theory
+Masters Dissertation: Synthetic Homotopy Theory and Classifying Principal Bundles in Homotopy Type Theory
 </div><!--/.vallenato-header-->
 
 <div class="vallenato-content">
