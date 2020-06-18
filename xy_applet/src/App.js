@@ -694,7 +694,7 @@ class App extends React.Component {
 				<div className="game-info">
 					<table style={{'width': '100%', 'minWidth':'100%'}}><tbody><tr>
 						<td style={{'width': '20%', 'minWidth':'20%', 'textAlign': 'left'}}>T = {T.toFixed(2)}</td>
-						<td style={{'width': '80%', 'minWidth':'80%'}}><RangeInput id="T_slider" min={0} max={5} value={T} step={0.01} disabled={!isCurrentState} onChange={(e) => this.handleTChange(e)}/></td>
+						<td style={{'width': '80%', 'minWidth':'80%'}}><RangeInput id="T_slider" min={0} max={2} value={T} step={0.01} disabled={!isCurrentState} onChange={(e) => this.handleTChange(e)}/></td>
 					</tr></tbody></table>
 					<table style={{'width': '100%', 'minWidth':'100%'}}><tbody>
 						<tr><td style={{'width': '50%', 'minWidth':'50%'}}>
