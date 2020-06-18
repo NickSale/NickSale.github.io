@@ -1,12 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "Teaching"
-excerpt:
+permalink: /teaching/
 author_profile: true
-classes: wide
-redirect_from: 
-  - /teaching/
-  - /teaching.html
 ---
 
 ### Demonstrating
