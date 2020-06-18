@@ -1,6 +1,6 @@
 emcc ripser.cpp -o rips.js -s WASM=1 -s ENVIRONMENT=web -s FORCE_FILESYSTEM=1 -s MODULARIZE=1 -s EXPORT_NAME=ripser
 add /* eslint-disable */ to the top of rips.js (and lalolib.js)
-add / infront of rips.wasm
+add / infront of rips.wasm or /xy-model/ for web host
 comment out the line below that
 
 npm i styled-components

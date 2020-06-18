@@ -1577,7 +1577,7 @@ function isDataURI(filename) {
 
 
 
-var wasmBinaryFile = '/rips.wasm';
+var wasmBinaryFile = '/xy-model/rips.wasm';
 if (!isDataURI(wasmBinaryFile)) {
   //wasmBinaryFile = locateFile(wasmBinaryFile);
 }
