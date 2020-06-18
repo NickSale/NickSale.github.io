@@ -22,12 +22,14 @@ author_profile: true
 
 I'm interested in how topological data analysis can be applied to obtain value from data by considering its shape. On the one hand, this consists of identifying new domains where TDA can improve data analysis, especially when it solves problems that other data analysis techniques can not. On the other hand, this involves investigating where tools like persistent homology and (ball) mapper fit into the data scientist's toolbox, especially alongside the wide variety of manifold learning techniques out there.
 
+<h4>Persistent homology to study phase transitions</h4>
+One potential application of persistent homology that has not yet fully been explored is in studing phase transitions in lattice models from statistical mechanics. The idea of this project is to build up a methodology for using persistent homology with well-understood lattice models such as the XY model, with the hope that this could eventually help us towards understanding the behaviour and phase transitions of more complex models like lattice QCD.
+
 <p>
-In my current projects I am looking at:
+In other projects I am looking at:
 <ul>
-  <li>the application of persistent homology to studing phase transitions in lattice models from statistical mechanics</li>
-  <li>the application of persistent homology to identifying families of statistical distributions</li>
-  <li>the relationship between topological data analysis and diffusion-based analysis</li>
+  <li>the application of persistent homology to identifying families of statistical distributions;</li>
+  <li>the relationship between topological data analysis and diffusion-based analysis.</li>
 </ul>
 </p>
 
