@@ -6,7 +6,7 @@
     
   },
   "files": [
-    "test.wasm"
+    "rips.wasm"
   ],
-  "module": "test.wasm"
+  "module": "rips.wasm"
 }
