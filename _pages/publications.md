@@ -27,10 +27,10 @@ I'm interested in how topological data analysis can be applied to obtain value f
 	One potential application of persistent homology that has not yet fully been explored is in studing phase transitions in lattice models from statistical mechanics. The idea of this project is to build up a methodology for using persistent homology with well-understood lattice models such as the XY model, with the hope that this could eventually help us towards understanding the behaviour and phase transitions of more complex models like lattice QCD.
 </p><p>
 	To get a flavour of what the persistence of the XY model tells us I wrote a small web app that can be found <a href="{{ site.baseurl }}/xy-model/">here</a>.
-	<img src="{{ site.baseurl }}/assets/images/xy_applet.png" />
+	<img src="{{ site.baseurl }}/files/images/xy_applet.png" style="width: 20%;"/>
 </p>
 
-<h3>Other Projects</h3>
+<h3>Other projects</h3>
 <p>
 In other projects I am looking at:
 <ul>
