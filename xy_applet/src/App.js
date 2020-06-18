@@ -185,7 +185,7 @@ class Lattice extends React.Component {
 const currentStateRef = React.createRef()
 
 function scrollToBottom() {
-	currentStateRef.current.scrollIntoView({ behavior: 'smooth' });
+	currentStateRef.current.scrollIntoView({ behavior: 'smooth', block: "nearest", inline: "start" });
 }
 
 class App extends React.Component {
@@ -285,6 +285,15 @@ class App extends React.Component {
 			for (let j = 0; j < latLen; j++) {
 				if (i !== 0 || j !== 0) {
 					var row = new Array(i * latLen + j).fill(inf);
+					for (let di = -1; di <= 1; di++) {
+						for (let dj = -1; dj <= 1; dj++) {
+							const pos = mod(i+di, latLen) * latLen + mod(j+dj, latLen);
+							if (pos < i * latLen + j) {
+								row[pos] = angDiff(squares[i * latLen + j], squares[pos])
+							}
+						}
+					}
+					/*
 					var dj = 0;
 					for (let di = -1; di <= 1; di++) {
 						const pos = mod(i+di, latLen) * latLen + mod(j+dj, latLen);
@@ -310,6 +319,19 @@ class App extends React.Component {
 					if (pos < i * latLen + j) {
 						row[pos] = angDiff(squares[i * latLen + j], squares[pos])
 					}
+
+					di = -1; dj = 1;
+					pos = mod(i+di, latLen) * latLen + mod(j+dj, latLen);
+					if (pos < i * latLen + j) {
+						row[pos] = angDiff(squares[i * latLen + j], squares[pos])
+					}
+
+					di = 1; dj = -1;
+					pos = mod(i+di, latLen) * latLen + mod(j+dj, latLen);
+					if (pos < i * latLen + j) {
+						row[pos] = angDiff(squares[i * latLen + j], squares[pos])
+					}
+					*/
 
 					var rowString = row.map(x => x.toString()).join();
 					distMat += rowString + "\n"
@@ -681,10 +703,10 @@ class App extends React.Component {
 						<button style={{'width': '100%', 'minWidth':'100%'}} onClick={() => this.takeSnapshot()} disabled={!isCurrentState}>Take Snapshot</button>
 					</td></tr>
 					<tr><td>
-						<button style={{'width': '100%', 'minWidth':'100%'}} onClick={() => this.recomputePH(this.computeLocalFiltration.bind(this), "L")}>Compute Persistence</button>
-					</td><td>
-
-				</td></tr>
+						<button style={{'width': '100%', 'minWidth':'100%'}} onClick={() => this.recomputePH(this.computeLocalFiltration.bind(this), "✓")}>Compute Persistence</button>
+					</td><td style={{'textAlign': 'center'}}>
+						(Takes a few seconds)
+					</td></tr>
 				
 				{/*<tr><td>
 					<button style={{'width': '100%', 'minWidth':'100%'}} onClick={() => this.recomputePH(this.computeBroadFiltration.bind(this), "B")}>Compute Broad PH</button>

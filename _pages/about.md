@@ -9,10 +9,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student at Swansea University under the supervision of [Jeff Giansiracusa](https://sites.google.com/view/jeffreygiansiracusa/home) and [Pawel Dlotko](https://www.swansea.ac.uk/staff/science/maths/dlotkopt/), working in the area of Topological Data Analysis. My interests include applications, statistical approaches to persistent homology, the relationship between TDA and manifold learning techniques, and multiparameter persistence.
+I am a first year PhD student at Swansea University under the supervision of [Jeff Giansiracusa](https://sites.google.com/view/jeffreygiansiracusa/home) and [Pawel Dlotko](https://www.swansea.ac.uk/staff/science/maths/dlotkopt/), working in the area of Topological Data Analysis. My interests include applications, statistical approaches to persistent homology, and the relationship between TDA and manifold learning techniques.
 
-### News
-([Travel Map](/travelmap.html))
+### Travel / News
+* June 2020 - Attending (virtually) the Workshop on Topological Data Analysis at the Fields Institute.
 * November 2019 - Attended a meeting of the UK Centre for Topological Data Analysis in Oxford.
 * October 2019 - Officially started my PhD studies at Swansea University.
 * September 2019 - Graduated from Oxford with a first class integrated masters in Mathematics and Computer Science.
