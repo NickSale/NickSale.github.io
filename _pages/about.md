@@ -12,16 +12,16 @@ redirect_from:
 I am a first year PhD student at Swansea University under the supervision of [Jeff Giansiracusa](https://sites.google.com/view/jeffreygiansiracusa/home) and [Biagio Lucini](http://pyweb.swan.ac.uk/~pybl/), working in the area of Topological Data Analysis. My interests include applications, statistical approaches to persistent homology, and the relationship between TDA and manifold learning techniques.
 
 ### Travel / News
-<ul style="height: 250px; overflow: auto;">
+<ul style="height: 300px; overflow: auto;">
 <li>September 2020 - Attended (virtually) <a href="https://www.maths.ox.ac.uk/node/36581">Spires20</a> the annual meeting of the <a href="https://www.maths.ox.ac.uk/groups/topological-data-analysis">UK Centre for Topological Data Analysis</a>.</li>
 <li>June 2020 - Attended (virtually) the <a href="http://www.fields.utoronto.ca/activities/19-20/toric-TDA">Workshop on Topological Data Analysis</a> at the Fields Institute.</li>
-<li>May 2020 - Attended (virtually) a meeting of the [UK Centre for Topological Data Analysis](https://www.maths.ox.ac.uk/groups/topological-data-analysis).</li>
-<li>November 2019 - Attended a meeting of the [UK Centre for Topological Data Analysis](https://www.maths.ox.ac.uk/groups/topological-data-analysis) in Oxford.</li>
+<li>May 2020 - Attended (virtually) a meeting of the <a href="https://www.maths.ox.ac.uk/groups/topological-data-analysis">UK Centre for Topological Data Analysis</a>.</li>
+<li>November 2019 - Attended a meeting of the <a href="https://www.maths.ox.ac.uk/groups/topological-data-analysis">UK Centre for Topological Data Analysis</a> in Oxford.</li>
 <li>October 2019 - Officially started my PhD studies at Swansea University.</li>
 <li>September 2019 - Graduated from Oxford with a first class integrated masters in Mathematics and Computer Science.</li>
-<li>July 2019 - Took part in [TAGSS III](http://www.adaboralevi.com/TAGSS/2019.html) at the ICTP in Trieste.</li>
-<li>April 2019 - Submitted my masters dissertation on [_Synthetic Homotopy Theory and Classifying Principal Bundles in Homotopy Type Theory_]({{ site.baseurl }}/research)</li>
-<li>March 2019 - Attended [SYCO3](http://events.cs.bham.ac.uk/syco/3/) at the University of Oxford.</li>
-<li>December 2018 - Attended [SYCO2](http://events.cs.bham.ac.uk/syco/2/) at the University of Strathclyde.</li>
-<li>September 2018 - Attended the [Dragon Applied Topology Conference](https://sites.google.com/view/dragon-applied-topology) at Swansea University.</li>
+  <li>July 2019 - Took part in <a href="http://www.adaboralevi.com/TAGSS/2019.html">TAGSS III</a> at the ICTP in Trieste.</li>
+<li>April 2019 - Submitted my masters dissertation on <a href="nicksale.github.io/research">Synthetic Homotopy Theory and Classifying Principal Bundles in Homotopy Type Theory</a></li>
+  <li>March 2019 - Attended <a href="http://events.cs.bham.ac.uk/syco/3/">SYCO3</a> at the University of Oxford.</li>
+<li>December 2018 - Attended <a href="http://events.cs.bham.ac.uk/syco/2/">SYCO2</a> at the University of Strathclyde.</li>
+<li>September 2018 - Attended the <a href="https://sites.google.com/view/dragon-applied-topology">Dragon Applied Topology Conference</a> at Swansea University.</li>
 </ul>
