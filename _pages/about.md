@@ -13,6 +13,7 @@ I am a second year PhD student at Swansea University under the supervision of [J
 
 ### Travel / News
 <ul style="height: 300px; overflow: auto;">
+<li>November 2020 - Gave a talk about my work on using persistent homology to study phase transitions at a meeting of the <a href="https://www.maths.ox.ac.uk/groups/topological-data-analysis">UK Centre for Topological Data Analysis</a>.</li>
 <li>September 2020 - Attended (virtually) <a href="https://www.maths.ox.ac.uk/node/36581">Spires20</a> the annual meeting of the <a href="https://www.maths.ox.ac.uk/groups/topological-data-analysis">UK Centre for Topological Data Analysis</a>.</li>
 <li>June 2020 - Attended (virtually) the <a href="http://www.fields.utoronto.ca/activities/19-20/toric-TDA">Workshop on Topological Data Analysis</a> at the Fields Institute.</li>
 <li>May 2020 - Attended (virtually) a meeting of the <a href="https://www.maths.ox.ac.uk/groups/topological-data-analysis">UK Centre for Topological Data Analysis</a>.</li>
