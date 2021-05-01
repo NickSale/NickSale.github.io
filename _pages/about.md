@@ -13,6 +13,8 @@ I am a second year PhD student at Swansea University under the supervision of [J
 
 ### Travel / News
 <ul style="height: 300px; overflow: auto;">
+<li>August 2021 - I am organising (along with <a href="https://haduonght.wordpress.com/">Hoan Tran</a>) a minisymposium on Applications of Persistent Homology to Phase Transitions at the upcoming SIAM <a href="https://www.siam.org/conferences/cm/conference/ag21">AG21</a> conference.
+<li>April 2021 - Attended (virtually) the IMSI <a href="https://www.imsi.institute/topological-data-analysis/">Topological Data Analysis Workshop</a>.</li>
 <li>November 2020 - Gave a talk about my work on using persistent homology to study phase transitions at a meeting of the <a href="https://www.maths.ox.ac.uk/groups/topological-data-analysis">UK Centre for Topological Data Analysis</a>.</li>
 <li>September 2020 - Attended (virtually) <a href="https://www.maths.ox.ac.uk/node/36581">Spires20</a> the annual meeting of the <a href="https://www.maths.ox.ac.uk/groups/topological-data-analysis">UK Centre for Topological Data Analysis</a>.</li>
 <li>June 2020 - Attended (virtually) the <a href="http://www.fields.utoronto.ca/activities/19-20/toric-TDA">Workshop on Topological Data Analysis</a> at the Fields Institute.</li>
