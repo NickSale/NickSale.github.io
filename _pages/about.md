@@ -27,4 +27,4 @@ I am a second year PhD student at Swansea University under the supervision of [J
   <li>March 2019 - Attended <a href="http://events.cs.bham.ac.uk/syco/3/">SYCO3</a> at the University of Oxford.</li>
 <li>December 2018 - Attended <a href="http://events.cs.bham.ac.uk/syco/2/">SYCO2</a> at the University of Strathclyde.</li>
 <li>September 2018 - Attended the <a href="https://sites.google.com/view/dragon-applied-topology">Dragon Applied Topology Conference</a> at Swansea University.</li>
-</ul>
+
