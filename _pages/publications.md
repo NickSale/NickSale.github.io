@@ -35,8 +35,7 @@ I'm interested in how topological data analysis can be applied to obtain value f
 <p>
 In other projects I am looking at:
 <ul>
-  <li>the application of persistent homology to identifying families of statistical distributions;</li>
-  <li>the relationship between topological data analysis and diffusion-based analysis.</li>
+  <li>varieties of polynomials in the triangle hyperfield with <a href="https://sites.google.com/view/jmacademicsite/home">James Maxwell</a>.</li>
 </ul>
 </p>
 
