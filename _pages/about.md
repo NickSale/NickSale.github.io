@@ -13,7 +13,7 @@ I am a second year PhD student at Swansea University under the supervision of [J
 
 ### Travel / News
 <ul style="height: 300px; overflow: auto;">
-<li>August 2021 - I am organising (along with <a href="https://haduonght.wordpress.com/">Hoan Tran</a>) a minisymposium on Applications of Persistent Homology to Phase Transitions at the upcoming SIAM <a href="https://www.siam.org/conferences/cm/conference/ag21">AG21</a> conference./li>
+<li>August 2021 - I am organising (along with <a href="https://haduonght.wordpress.com/">Hoan Tran</a>) a minisymposium on Applications of Persistent Homology to Phase Transitions at the upcoming SIAM <a href="https://www.siam.org/conferences/cm/conference/ag21">AG21</a> conference.</li>
 <li>June 2021 - Was a winner of the <a href="https://sites.google.com/view/topflavours2021/home">TopFlavours</a> Gong Show where I gave a 7-minute talk about why persistent homology is a useful tool to study phase transitions, winning a £50 Amazon voucher.</li>
 <li>April 2021 - Attended (virtually) the IMSI <a href="https://www.imsi.institute/topological-data-analysis/">Topological Data Analysis Workshop</a>.</li>
 <li>March 2021 - Produced a video tutorial as part of the <a href="https://sites.google.com/view/aatrn-tutorial-a-thon">AATRN Tutorial-a-Thon</a>. You can find my video on YouTube <a href="https://www.youtube.com/watch?v=0nNHl_uRKG8&list=PL4kY-dS_mSmJabQiM2ySRSUusbvmdIxBt&index=14">here</a>.</li>
