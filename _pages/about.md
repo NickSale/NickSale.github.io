@@ -13,6 +13,7 @@ I am a second year PhD student at Swansea University under the supervision of [J
 
 ### Travel / News
 <ul style="height: 300px; overflow: auto;">
+<li> Septempber 2021 - I will be attending the conference <a href="https://indico.ectstar.eu/event/77/">Machine Learning for High Energy Physics, on and off the Lattice</a>.</li>
 <li>August 2021 - I am organising (along with <a href="https://haduonght.wordpress.com/">Hoan Tran</a>) a minisymposium on Applications of Persistent Homology to Phase Transitions at the upcoming SIAM <a href="https://www.siam.org/conferences/cm/conference/ag21">AG21</a> conference.</li>
 <li>July 2021 - I helped out with the <a href="https://www.swansea.ac.uk/maths/seminars/lms-summer-school-2020/">LMS Undergraduate Summer School</a> which was hosted by Swansea University.</li>
 <li>July 2021 - I participated in a V-KEMS Virtual Study Group on <a href="https://www.icms.org.uk/events/workshops/VSGevent">Covid-19 Safety in Large Events</a>.</li>
