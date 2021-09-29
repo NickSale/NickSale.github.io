@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student at Swansea University under the supervision of [Jeff Giansiracusa](https://sites.google.com/view/jeffreygiansiracusa/home) and [Biagio Lucini](http://pyweb.swan.ac.uk/~pybl/), working in the area of Topological Data Analysis. My interests include applications of TDA to statistical physics, statistical approaches to persistent homology, and the relationship between TDA and manifold learning techniques.
+I am a third year PhD student at Swansea University under the supervision of [Jeff Giansiracusa](https://sites.google.com/view/jeffreygiansiracusa/home) and [Biagio Lucini](http://pyweb.swan.ac.uk/~pybl/), working in the area of Topological Data Analysis. My interests include applications of TDA to statistical physics, statistical approaches to persistent homology, and the relationship between TDA and manifold learning techniques.
 
 ### Travel / News
 <ul style="height: 300px; overflow: auto;">
