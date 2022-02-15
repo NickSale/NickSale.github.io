@@ -13,6 +13,7 @@ I am a third year PhD student at Swansea University under the supervision of [Je
 
 ### Travel / News
 <ul style="height: 300px; overflow: auto;">
+<li>February 2022 - My paper <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.024121">Quantitative analysis of phase transitions in two-dimensional XY models using persistent homology</a> has been published by Physical Review E!</li>
 <li>November 2021 - Attended (virtually) a meeting of the <a href="https://www.maths.ox.ac.uk/groups/topological-data-analysis">UK Centre for Topological Data Analysis</a>.</li>
 <li>Septempber 2021 - Gave a talk at the conference <a href="https://indico.ectstar.eu/event/77/">Machine Learning for High Energy Physics, on and off the Lattice</a>.</li>
 <li>August 2021 - Organised (along with <a href="https://haduonght.wordpress.com/">Hoan Tran</a>) a minisymposium on Applications of Persistent Homology to Phase Transitions at the SIAM <a href="https://www.siam.org/conferences/cm/conference/ag21">AG21</a> conference.</li>
