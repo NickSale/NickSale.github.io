@@ -40,7 +40,7 @@ In other projects I am looking at:
 </p>
 
 <div class="vallenato">
-<h2 style="text-align: center;">Preprints</h2>
+<h2 style="text-align: center;">Publications</h2>
 <div class="vallenato-header">
 Quantitative analysis of phase transitions in two-dimensional XY models using persistent homology
 </div><!--/.vallenato-header-->
@@ -50,7 +50,7 @@ Quantitative analysis of phase transitions in two-dimensional XY models using pe
 
 <p>We use persistent homology and persistence images as an observable of three different variants of the two-dimensional XY model in order to identify and study their phase transitions. We examine models with the classical XY action, a topological lattice action, and an action with an additional nematic term. In particular, we introduce a new way of computing the persistent homology of lattice spin model configurations and, by considering the fluctuations in the output of logistic regression and k-nearest neighbours models trained on persistence images, we develop a methodology to extract estimates of the critical temperature and the critical exponent of the correlation length. We put particular emphasis on finite-size scaling behaviour and producing estimates with quantifiable error. For each model we successfully identify its phase transition(s) and are able to get an accurate determination of the critical temperatures and critical exponents of the correlation length.</p>
 
-<p>Preprint (2021) on arXiv <a href="https://arxiv.org/abs/2109.10960">here</a>.</p>
+	<p><a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.024121">Publisher</a>, <a href="https://arxiv.org/abs/2109.10960">arXiv</a>.</p>
 </div><!--/.vallenato-content-->
   
 </div><!--/.vallenato-->
