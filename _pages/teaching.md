@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ### Lab Demonstrating / Marking (Swansea University)
+* Lent Term 2022 - MA-282 Game Theory and Optimization
 * Michaelmas Term 2021 - MA-006 Fundamental Mathematics
 * Lent Term 2021 - MA-308 Machine Learning
 * Michaelmas Term 2020 - MA-131 Geometry, Logic, and Communication
