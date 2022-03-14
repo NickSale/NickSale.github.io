@@ -20,9 +20,7 @@ author_profile: true
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
 <script src="{{ site.baseurl }}/assets/vallenato/vallenato.js"></script>
 <script>
-function clickQuantXY(){
-    document.getElementById("quant_xy").click();
-}
+function clickQuantXY(){ document.getElementById("quant_xy").click(); }
 </script>
 
 I'm interested in using topological data analysis to study topological objects in lattice models from statistical physics and particle physics. In particular, I use ideas from applied topology to develop data-driven tools to study these topological objects and phase transitions associated to them. By building up a methodology for using persistent homology with well-understood lattice models such as the XY model, and SU(2) lattice gauge theory, the hope is that eventually it can help our understanding of phenomena at the forefront of physics like the deconfinement phase transition in quantum chromodynamics (QCD).
