@@ -20,7 +20,7 @@ author_profile: true
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
 <script src="{{ site.baseurl }}/assets/vallenato/vallenato.js"></script>
 <script>
-document.getElementById("link_to_quant_xy").onclick = function(){
+function clickQuantXY(){
     document.getElementById("quant_xy").click();
 }
 </script>
@@ -35,7 +35,7 @@ I'm interested in using topological data analysis to study topological objects i
 
 	<a href="{{ site.baseurl }}/xy-model/"><img src="{{ site.baseurl }}/files/images/xy_applet.png" style="width: 60%; display: block; margin-left: auto; margin-right: auto; margin-top: 15px;"/></a>
 </p><p>
-	Beyond a qualitative picture of the vortices and antivortices of the XY model across the phase transition, the main aim was to obtain quantitative estimates of the transition temperature and one of the critical exponents of the transition. I achieved this using machine learning on persistence images demonstrating that, as you change the lattice size, the ML estimates of the transition temperature follow a certain scaling law. Besides allowing extrapolation of the continuum transition temperature and the critical exponent of correlation legnth, this provides evidence that the persistence is coupling to the degrees of freedom relevant to the phase transition. See the paper <a id="link_to_quant_xy" href="#quant_xy">here</a>.
+	Beyond a qualitative picture of the vortices and antivortices of the XY model across the phase transition, the main aim was to obtain quantitative estimates of the transition temperature and one of the critical exponents of the transition. I achieved this using machine learning on persistence images demonstrating that, as you change the lattice size, the ML estimates of the transition temperature follow a certain scaling law. Besides allowing extrapolation of the continuum transition temperature and the critical exponent of correlation legnth, this provides evidence that the persistence is coupling to the degrees of freedom relevant to the phase transition. See the paper <a onclick="clickQuantXY()" href="#quant_xy">here</a>.
 </p>
 
 <h3>Center vortices in SU(2) lattice gauge theory</h3>
