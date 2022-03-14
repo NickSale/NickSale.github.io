@@ -40,7 +40,7 @@ I'm interested in using topological data analysis to study topological objects i
 
 <h3>Center vortices in SU(2) lattice gauge theory</h3>
 <p>
-My current project builds on the previous one by seeking to detect vortices in more complicated models called lattice gauge theories. QCD is one such gauge theory, but we start simpler by removing the quarks and reducing the gauge group from SU(3) to SU(2). The pure SU(2) gauge theory we're left with still exhibits some of the interesting phenomena we're interested in such as a deconfinement phase transition. One of the most compelling arguments for why this transition occurs relies on vortices. Unlike the point-like vortices in the XY model however, these take the form of two-dimensional closed surfaces. I am currently working on filtrations which explicity construct these vortex surfaces.
+My current project builds on the previous one by seeking to detect vortices in more complicated models called lattice gauge theories. QCD is one such gauge theory, but we start simpler by removing the quarks and reducing the gauge group from SU(3) to SU(2). The pure SU(2) gauge theory we're left with still exhibits some of the interesting phenomena we're interested in such as a deconfinement phase transition. One of the most compelling arguments for why this transition occurs relies on vortices but, unlike the point-like vortices in the XY model, these take the form of two-dimensional closed surfaces. I am currently working on filtrations which explicity construct these vortex surfaces.
 </p>
 
 <h3>Other projects</h3>
