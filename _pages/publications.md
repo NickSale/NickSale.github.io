@@ -20,15 +20,17 @@ author_profile: true
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
 <script src="{{ site.baseurl }}/assets/vallenato/vallenato.js"></script>
 
-I'm interested in how topological data analysis can be applied to obtain value from data by considering its shape. On the one hand, this consists of identifying new domains where TDA can improve data analysis, especially when it solves problems that other data analysis techniques can not. On the other hand, this involves investigating where tools like persistent homology and (ball) mapper fit into the data scientist's toolbox, especially alongside the wide variety of manifold learning techniques out there.
+I'm interested in using topological data analysis to study topological objects in lattice models from statistical physics and particle physics. In particular, I use ideas from applied topology to develop data-driven tools to study these topological objects and phase transitions associated to them. By building up a methodology for using persistent homology with well-understood lattice models such as the XY model, and SU(2) lattice gauge theory, the hope is that eventually it can help our understanding of phenomena at the forefront of physics like the deconfinement phase transition in quantum chromodynamics.
 
-<h3>Persistent homology to study phase transitions</h3>
+<h3>Quantitative analysis of phase transitions in XY models</h3>
 <p>
-	One potential application of persistent homology that has not yet fully been explored is in studing phase transitions in lattice models from statistical mechanics. The idea of this project is to build up a methodology for using persistent homology with well-understood lattice models such as the XY model, with the hope that this could eventually help us towards understanding the behaviour and phase transitions of more complex models like lattice QCD.
+	One of the major projects of my PhD was to develop a methodology for using persistent homology with XY models. These models display topological defects such as vortices, antivortices, and domain walls. I came up with a class of filtrations which capture these defects as persistent 1-dimensional holes.
 </p><p>
 	To get a flavour of what the persistence of the XY model tells us, I wrote a small web app that can be found <a href="{{ site.baseurl }}/xy-model/">here</a>.
 
 	<a href="{{ site.baseurl }}/xy-model/"><img src="{{ site.baseurl }}/files/images/xy_applet.png" style="width: 60%; display: block; margin-left: auto; margin-right: auto; margin-top: 15px;"/></a>
+</p><p>
+	Beyond a qualitative picture of the vortices and antivortices of the XY model across the phase transition, the main aim was to obtain quantitative estimates of the transition temperature and one of the critical exponents of the transition. I achieved this using machine learning on persistence images, demonstrating that as you change the lattice size the ML estimates of the transition temperature follow a certain scaling law. Besides allowing extrapolation of the continuum transition temperature and the critical exponent of corellation legnth, this provides evidence that the persistence is coupling to the degrees of freedom relevant to the phase transition. See the paper <a href="#quant_xy">here</a>.
 </p>
 
 <h3>Other projects</h3>
@@ -45,7 +47,7 @@ In other projects I am looking at:
 Quantitative analysis of phase transitions in two-dimensional XY models using persistent homology
 </div><!--/.vallenato-header-->
 
-<div class="vallenato-content">
+<div class="vallenato-content" id="quant_xy">
 	<p>with <a href="https://sites.google.com/view/jeffreygiansiracusa/home">Jeff Giansiracusa</a> and <a href="http://pyweb.swan.ac.uk/~pybl/">Biagio Lucini</a>.</p>
 
 <p>We use persistent homology and persistence images as an observable of three different variants of the two-dimensional XY model in order to identify and study their phase transitions. We examine models with the classical XY action, a topological lattice action, and an action with an additional nematic term. In particular, we introduce a new way of computing the persistent homology of lattice spin model configurations and, by considering the fluctuations in the output of logistic regression and k-nearest neighbours models trained on persistence images, we develop a methodology to extract estimates of the critical temperature and the critical exponent of the correlation length. We put particular emphasis on finite-size scaling behaviour and producing estimates with quantifiable error. For each model we successfully identify its phase transition(s) and are able to get an accurate determination of the critical temperatures and critical exponents of the correlation length.</p>
