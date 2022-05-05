@@ -13,6 +13,8 @@ I am a third year PhD student at Swansea University under the supervision of [Je
 
 ### Travel / News
 <ul style="height: 300px; overflow: auto;">
+<li> July 2022 - I will be giving a talk on my work at the <a href="https://www.math.ku.dk/english/calendar/events/ytm2022/">Young Topologists Meeting</a> in Copenhagen.</li>
+<li>June 2022 - I will be attending <a href="https://atmcs.web.ox.ac.uk/">ATMCS 10</a> in Oxford.</li>
 <li>February 2022 - Gave a talk about my work on using persistent homology to detect vortices in lattice SU(2) gauge theory at a meeting of the <a href="https://www.maths.ox.ac.uk/groups/topological-data-analysis">UK Centre for Topological Data Analysis</a>.</li>
 <li>February 2022 - My paper <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.024121">Quantitative analysis of phase transitions in two-dimensional XY models using persistent homology</a> has been published by Physical Review E!</li>
 <li>November 2021 - Attended (virtually) a meeting of the <a href="https://www.maths.ox.ac.uk/groups/topological-data-analysis">UK Centre for Topological Data Analysis</a>.</li>
