@@ -43,9 +43,10 @@ My current project builds on the previous one by seeking to detect vortices in m
 
 <h3>Other projects</h3>
 <p>
-In other projects I am looking at:
+In other previous projects I have looked at:
 <ul>
   <li>varieties of polynomials in the triangle hyperfield with <a href="https://sites.google.com/view/jmacademicsite/home">James Maxwell</a>.</li>
+  <li>developing non-parametric statistical tests for equality between distributions based on persistent homology.</li>
 </ul>
 </p>
 
