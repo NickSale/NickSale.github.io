@@ -51,6 +51,22 @@ In other previous projects I have looked at:
 </p>
 
 <div class="vallenato">
+<h2 style="text-align: center;">Preprints</h2>
+<div class="vallenato-header" id="quant_xy">
+Probing center vortices and deconfinement in SU(2) lattice gauge theory with persistent homology
+</div><!--/.vallenato-header-->
+
+<div class="vallenato-content">
+	<p>with <a href="https://sites.google.com/view/jeffreygiansiracusa/home">Jeff Giansiracusa</a> and <a href="http://pyweb.swan.ac.uk/~pybl/">Biagio Lucini</a>.</p>
+
+<p>We investigate the use of persistent homology, a tool from topological data analysis, as a means to detect and quantitatively describe center vortices in SU(2) lattice gauge theory in a gauge-invariant manner. The sensitivity of our method to vortices in the deconfined phase is confirmed by using twisted boundary conditions which inspires the definition of a new phase indicator for the deconfinement phase transition. We also construct a phase indicator without reference to twisted boundary conditions using a simple k-nearest neighbours classifier. Finite-size scaling analyses of both persistence-based indicators yield accurate estimates of the critical β and critical exponent of correlation length ν of the deconfinement phase transition.</p>
+
+	<p><a href="https://arxiv.org/abs/2207.13392">arXiv</a>.</p>
+</div><!--/.vallenato-content-->
+  
+</div><!--/.vallenato-->
+
+<div class="vallenato">
 <h2 style="text-align: center;">Publications</h2>
 <div class="vallenato-header" id="quant_xy">
 Quantitative analysis of phase transitions in two-dimensional XY models using persistent homology
