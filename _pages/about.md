@@ -13,7 +13,7 @@ I am a third year PhD student at Swansea University under the supervision of [Je
 
 ### Travel / News
 <ul style="height: 300px; overflow: auto;">
-<li> August 2022 - I will be giving a talk at the <a href="https://indico.hiskp.uni-bonn.de/event/40/">39th International Symposium on Lattice Field Theory (Lattice 2022)</a> in Bonn.</li>
+<li> August 2022 - I gave a talk at the <a href="https://indico.hiskp.uni-bonn.de/event/40/">39th International Symposium on Lattice Field Theory (Lattice 2022)</a> in Bonn.</li>
 <li> July 2022 - I gave a talk on my work at the <a href="https://www.math.ku.dk/english/calendar/events/ytm2022/">Young Topologists Meeting</a> in Copenhagen.</li>
 <li>June 2022 - I will be attending <a href="https://atmcs.web.ox.ac.uk/">ATMCS 10</a> in Oxford.</li>
 <li>May 2022 - Gave a talk about my work to the <a href="https://www.aqa.universiteitleiden.nl/">aQa</a> seminar at Leiden University.</li>
