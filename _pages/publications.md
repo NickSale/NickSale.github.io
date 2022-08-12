@@ -21,6 +21,7 @@ author_profile: true
 <script src="{{ site.baseurl }}/assets/vallenato/vallenato.js"></script>
 <script>
 function clickQuantXY(){ document.getElementById("quant_xy").click(); }
+function clickSU2CenterVortices(){ document.getElementById("su2_center_vortices").click(); }
 </script>
 
 I'm interested in using topological data analysis to study topological objects in lattice models from statistical physics and particle physics. In particular, I use ideas from applied topology to develop data-driven tools to study these topological objects and phase transitions associated to them. By building up a methodology for using persistent homology with well-understood lattice models such as the XY model, and SU(2) lattice gauge theory, the hope is that eventually it can help our understanding of phenomena at the forefront of physics like the deconfinement phase transition in quantum chromodynamics (QCD).
@@ -38,7 +39,7 @@ I'm interested in using topological data analysis to study topological objects i
 
 <h3>Center vortices in SU(2) lattice gauge theory</h3>
 <p>
-My current project builds on the previous one by seeking to detect vortices in more complicated models called lattice gauge theories. QCD is one such gauge theory, but we start simpler by removing the quarks and reducing the gauge group from SU(3) to SU(2). The pure SU(2) gauge theory we're left with still exhibits some of the interesting phenomena we're interested in such as a deconfinement phase transition. One of the most compelling arguments for why this transition occurs relies on vortices but, unlike the point-like vortices in the XY model, these take the form of two-dimensional closed surfaces. I am currently working on filtrations which explicity construct these vortex surfaces.
+My most recent project sought to detect vortices in configurations of SU(2) lattice gauge theory. We can think of this as being a toy model of QCD where the quarks are infinitely heavy and the gauge group is reduced from SU(3) to SU(2). Nevertheless, we're left with some of the interesting phenomena we're interested in such as confinement and the deconfinement phase transition. One of the most compelling arguments for why this transition occurs relies on objects called center vortices but, unlike the point-like vortices in the XY model, these take the form of two-dimensional closed surfaces. For a configuration of the model, I construct a filtered complex complex that attempts to construct cubical approximations of those vortex surfaces based on the values of Wilson loops. In particular, the filtration is gauge-invariant where as most existing methods of looking for center vortices rely on gauge fixing. I demonstrated that the resulting persistence diagrams are sensitive to vortices explicitly inserted by boundary conditions and that they can be used to quantitatively analyse the deconfinement phase transition. See the papers <a onclick="clickSU2CenterVortices()" href="#su2_center_vortices">here</a>.
 </p>
 
 <h3>Other projects</h3>
@@ -52,7 +53,7 @@ In other previous projects I have looked at:
 
 <div class="vallenato">
 <h2 style="text-align: center;">Preprints</h2>
-<div class="vallenato-header" id="quant_xy">
+<div class="vallenato-header" id="su2_center_vortices">
 Probing center vortices and deconfinement in SU(2) lattice gauge theory with persistent homology
 </div><!--/.vallenato-header-->
 
