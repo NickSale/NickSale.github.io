@@ -9,10 +9,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD student at Swansea University under the supervision of [Jeff Giansiracusa](https://sites.google.com/view/jeffreygiansiracusa/home) and [Biagio Lucini](http://pyweb.swan.ac.uk/~pybl/), working in the area of Topological Data Analysis. In October I will be starting as a Postdoctoral Research Assistant in Mathematical Sciences at Swansea University. My interests include applications of TDA to statistical physics and particle physics, topological machine learning, and the relationship between TDA and manifold learning techniques.
+I am a Postdoctoral Research Assistant in Mathematical Sciences at Swansea University, working with [Biagio Lucini](http://pyweb.swan.ac.uk/~pybl/) and [Jeff Giansiracusa](https://sites.google.com/view/jeffreygiansiracusa/home). My interests lie in applications of TDA, particularly to statistical physics and particle physics.
 
 ### Travel / News
 <ul style="height: 300px; overflow: auto;">
+<li> September 2022 - I successfully defended my PhD thesis, passing without corrections!</li>
 <li> August 2022 - I gave a talk at the <a href="https://indico.hiskp.uni-bonn.de/event/40/">39th International Symposium on Lattice Field Theory (Lattice 2022)</a> in Bonn.</li>
 <li> July 2022 - I gave a talk on my work at the <a href="https://www.math.ku.dk/english/calendar/events/ytm2022/">Young Topologists Meeting</a> in Copenhagen.</li>
 <li>June 2022 - I will be attending <a href="https://atmcs.web.ox.ac.uk/">ATMCS 10</a> in Oxford.</li>
