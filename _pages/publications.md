@@ -84,9 +84,17 @@ Quantitative analysis of phase transitions in two-dimensional XY models using pe
 </div><!--/.vallenato-->
 
 <div class="vallenato">
-<h2 style="text-align: center;">Dissertation</h2>
+<h2 style="text-align: center;">Theses</h2>
 <div class="vallenato-header">
-Masters: Synthetic Homotopy Theory and Classifying Principal Bundles in Homotopy Type Theory
+PhD Thesis: Applications of Topological Data Analysis to Statistical Physics and Quantum Field Theories
+</div><!--/.vallenato-header-->
+
+<div class="vallenato-content">
+<p>Submitted in August 2022. <a href="https://cronfa.swan.ac.uk/Record/cronfa61816">Download</a>.</p>
+</div><!--/.vallenato-content-->	
+	
+<div class="vallenato-header">
+Masters Dissertation: Synthetic Homotopy Theory and Classifying Principal Bundles in Homotopy Type Theory
 </div><!--/.vallenato-header-->
 
 <div class="vallenato-content">
