@@ -84,6 +84,22 @@ Quantitative analysis of phase transitions in two-dimensional XY models using pe
 </div><!--/.vallenato-->
 
 <div class="vallenato">
+<h2 style="text-align: center;">Proceedings</h2>
+<div class="vallenato-header" id="quant_xy">
+Persistent homology as a probe for center vortices and deconfinement in SU(2) lattice gauge theory
+</div><!--/.vallenato-header-->
+
+<div class="vallenato-content">
+	<p>with <a href="http://pyweb.swan.ac.uk/~pybl/">Biagio Lucini</a> and <a href="https://sites.google.com/view/jeffreygiansiracusa/home">Jeff Giansiracusa</a>.</p>
+
+<p>Topological Data Analysis (TDA) is a field that leverages tools and ideas from algebraic topology to provide robust methods for analysing geometric and topological aspects of data. One of the principal tools of TDA, persistent homology, produces a quantitative description of how the connectivity and structure of data changes when viewed over a sequence of scales. We propose that this presents a means to directly probe topological objects in gauge theories. We present recent work on using persistent homology to detect center vortices in SU(2) lattice gauge theory configurations in a gauge-invariant manner. We introduce the basics of persistence, describe our construction, and demonstrate that the result is sensitive to vortices. Moreover we discuss how, with simple machine learning, one can use the resulting persistence to quantitatively analyse the deconfinement transition via finite-size scaling, providing evidence on the role of vortices in relation to confinement in Yang-Mills theories.</p>
+
+	<p><a href="https://arxiv.org/abs/2109.10960">arXiv</a>.</p>
+</div><!--/.vallenato-content-->
+  
+</div><!--/.vallenato-->
+
+<div class="vallenato">
 <h2 style="text-align: center;">Theses</h2>
 <div class="vallenato-header">
 PhD Thesis: Applications of Topological Data Analysis to Statistical Physics and Quantum Field Theories
