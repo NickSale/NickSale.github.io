@@ -41,7 +41,7 @@ I'm interested in using topological data analysis to study topological objects i
 <p>
 My most recent project sought to detect vortices in configurations of SU(2) lattice gauge theory. We can think of this as being a toy model of QCD where the quarks are infinitely heavy and the gauge group is reduced from SU(3) to SU(2). Nevertheless, we're left with some of the interesting phenomena we're interested in such as confinement and the deconfinement phase transition. One of the most compelling arguments for why this transition occurs relies on objects called center vortices but, unlike the point-like vortices in the XY model, these take the form of two-dimensional closed surfaces. For a given configuration of the model, I defined a filtered complex complex that attempts to construct cubical approximations of those vortex surfaces based on the values of Wilson loops. In particular, the filtration is gauge-invariant where as most existing methods for looking at center vortices rely on gauge fixing. I demonstrated that the resulting persistence diagrams are sensitive to vortices that are explicitly inserted by boundary conditions, and that they can be used to quantitatively analyse the deconfinement phase transition. See the paper <a onclick="clickSU2CenterVortices()" href="#su2_center_vortices">here</a>.
 </p>
-<img src="{{ site.baseurl }}/files/images/3d_vortex.png" style="width: 60%; display: block; margin-left: auto; margin-right: auto; margin-top: 15px;"/>
+<img src="{{ site.baseurl }}/files/images/vortex_filt.png" style="width: 60%; display: block; margin-left: auto; margin-right: auto; margin-top: 15px;"/>
 <h3>Other projects</h3>
 <p>
 In other previous projects I have looked at:
