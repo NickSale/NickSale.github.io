@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I was a Postdoctoral Research Assistant in Mathematical Sciences at Swansea University, working with [Biagio Lucini](http://pyweb.swan.ac.uk/~pybl/) and [Jeff Giansiracusa](https://sites.google.com/view/jeffreygiansiracusa/home). My interests lie in applications of TDA, particularly to statistical physics and particle physics. Now I am a design engineer at ASML in the Netherlands.
+I am a design engineer at ASML in the Netherlands. Before that, I was a Postdoctoral Research Assistant in Mathematical Sciences at Swansea University, working with [Biagio Lucini](http://pyweb.swan.ac.uk/~pybl/) and [Jeff Giansiracusa](https://sites.google.com/view/jeffreygiansiracusa/home). My interests were in applications of TDA, particularly to statistical physics and particle physics.
 
 ### Travel / News
 <ul style="height: 300px; overflow: auto;">
